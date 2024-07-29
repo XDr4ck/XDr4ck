@@ -1,9 +1,7 @@
-<!DOCTYPE HTML>
-<html lang="pt-br">
-<head>
-<meta charset="UTF-8">
-    <title>Página do Rodrigo Luís Coelli</title>
-</head>
+
+<div><a href="https://github.com/octoelli">
+    <div  align="center">
+        
 ##  Welcome to 👋 [Kotlin](https://kotlinlang.org/), Programming Language [✨ _special_ ✨ repository](https://octoelli.github.io/page/)
 
 
@@ -22,9 +20,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<div>
-  <a href="https://github.com/octoelli">
-  <div  align="center">
 
   
 Aprimore seu [conhecimento](https://web.dio.me/play?search=Kotlin).
@@ -39,4 +34,5 @@ Introdução prática a [linguagem Kotlin](https://play.kotlinlang.org/byExample
 [![GitHub license](https://img.shields.io/badge/license-Apache%20License%202.0-blue.svg?style=flat)](https://www.apache.org/licenses/LICENSE-2.0)
 [![Revved up by Develocity](https://img.shields.io/badge/Revved%20up%20by-Develocity-06A0CE?logo=Gradle&labelColor=02303A)](https://ge.jetbrains.com/scans?search.rootProjectNames=Kotlin)
 <img alt="github contribution grid snake animation" src="https://github.com/octoelli/snk/blob/main/output/github-contribution-grid-snake.svg" style="visibility:visible;max-width:100%;">
+  </div>
 </div>
