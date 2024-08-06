@@ -2,7 +2,7 @@
 <div><a href="https://github.com/octoelli">
     <div  align="center">
         
-##  Welcome to 👋 GitHub! Bem Vindo ao meu [✨ _special_ ✨ repository](https://github.com/octoelli/rodrigocoelli/)
+##  Welcome to 👋 GitHub! Bem Vindo ao meu [✨   Repositório Pessoal   ✨](https://github.com/octoelli/rodrigocoelli/)
 
 
 <!--
