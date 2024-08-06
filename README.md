@@ -33,7 +33,8 @@ Introdução prática a [linguagem Kotlin](https://play.kotlinlang.org/byExample
 [![Maven Central](https://img.shields.io/maven-central/v/org.jetbrains.kotlin/kotlin-maven-plugin.svg)](https://search.maven.org/#search%7Cga%7C1%7Cg%3A%22org.jetbrains.kotlin%22)
 [![GitHub license](https://img.shields.io/badge/license-Apache%20License%202.0-blue.svg?style=flat)](https://www.apache.org/licenses/LICENSE-2.0)
 [![Revved up by Develocity](https://img.shields.io/badge/Revved%20up%20by-Develocity-06A0CE?logo=Gradle&labelColor=02303A)](https://ge.jetbrains.com/scans?search.rootProjectNames=Kotlin)
-<img alt="github contribution grid snake animation" src="https://github.com/octoelli/snk1/blob/main/output/github-contribution-grid-snake.svg" style="visibility:visible;max-width:100%;">
+
+![snake animation](https://github.com/octoelli/octoelli/blob/output/github-contribution-grid-snake2.svg)
 
   </div>
 </div>
