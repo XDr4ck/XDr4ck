@@ -34,7 +34,7 @@ Introdução prática a [linguagem Kotlin](https://play.kotlinlang.org/byExample
 [![GitHub license](https://img.shields.io/badge/license-Apache%20License%202.0-blue.svg?style=flat)](https://www.apache.org/licenses/LICENSE-2.0)
 [![Revved up by Develocity](https://img.shields.io/badge/Revved%20up%20by-Develocity-06A0CE?logo=Gradle&labelColor=02303A)](https://ge.jetbrains.com/scans?search.rootProjectNames=Kotlin)
 
-![snake animation](https://github.com/octoelli/octoelli/blob/output/github-contribution-grid-snake2.svg)
+![Snake animation](https://github.com/octoelli/octoelli/blob/output/github-contribution-grid-snake.svg)
 
   </div>
 </div>
