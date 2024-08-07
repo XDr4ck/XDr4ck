@@ -39,12 +39,12 @@ Introdução prática a [linguagem Kotlin](https://play.kotlinlang.org/byExample
     ````as visualizações foram redefinidas porque a API antiga morreu````
 
 <details>
-  <summary><h2>🐍 My Contributions 🐍</h2></summary>summary>
+  <summary><h2>🐍 My Contributions 🐍</h2></summary>
 <br>
   
   <br>
   <img alt="snake eating my contributions" src="https://github.com/octoelli/octoelli/blob/main/github-user-contribution.svg" />
-  
+ <p></p><img src="https://views-counter.vercel.app/badge?pageId=octoelli%2FViews-Counter" alt="Views Counter"></p>
   <br/><br/><br/>
 </div>
 </details>
