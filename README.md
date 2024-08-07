@@ -36,12 +36,20 @@ Introdução prática a [linguagem Kotlin](https://play.kotlinlang.org/byExample
 <br/>
 <hr/>
 <div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
+    ````as visualizações foram redefinidas porque a API antiga morreu````
+
+<details>
+  <summary><h2>🐍 My Contributions 🐍</h2></summary>summary>
+<br>
+  
   <br>
   <img alt="snake eating my contributions" src="https://github.com/octoelli/octoelli/blob/main/github-user-contribution.svg" />
   
   <br/><br/><br/>
 </div>
+</details>
 
+🤓☝️
+</div>
   </div>
 </div>
