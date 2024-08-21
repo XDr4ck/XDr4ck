@@ -23,8 +23,7 @@ Here are some ideas to get you started:
 
   
 Aprimore seu [conhecimento](https://ai.google.dev/).
-Estude usando o Microsoft Edge [navegador web](https://www.microsoft.com/pt-br/edge/download?msockid=1c4fe7f3187a6a6229b4f35f19cb6b24&form=MA13FJ). 
-Introdução prática a [linguagem Kotlin](https://play.kotlinlang.org/byExample/01_introduction/01_Hello%20world)
+Estude usando o Microsoft Edge [navegador web](https://www.microsoft.com/pt-br/edge/download?msockid=1c4fe7f3187a6a6229b4f35f19cb6b24&form=MA13FJ).
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=octoelli&theme=dracula)](https://github.com/stars/octoelli/lists/future-ideas)
 
