@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 Aprimore seu [conhecimento](https://ai.google.dev/).
 Estude usando o Microsoft Edge [navegador web](https://www.microsoft.com/pt-br/edge/download?msockid=1c4fe7f3187a6a6229b4f35f19cb6b24&form=MA13FJ).
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=octoelli&theme=dracula)](https://github.com/stars/octoelli/lists/future-ideas)
+[![trophy](https://github-profile-trophy.vercel.app/?username=XDr4ck&theme=dracula)](https://github.com/stars/XDr4ck/lists/future-ideas)
 
 [![official project](https://jb.gg/badges/official.svg)](https://confluence.jetbrains.com/display/ALL/JetBrains+on+GitHub)
 [![TeamCity (simple build status)](https://img.shields.io/teamcity/http/teamcity.jetbrains.com/s/Kotlin_KotlinPublic_Compiler.svg)](https://teamcity.jetbrains.com/buildConfiguration/Kotlin_KotlinPublic_Compiler?branch=%3Cdefault%3E&buildTypeTab=overview&mode=builds)
@@ -42,8 +42,8 @@ Estude usando o Microsoft Edge [navegador web](https://www.microsoft.com/pt-br/e
 <br>
   
   <br>
-  <img alt="snake eating my contributions" src="https://github.com/octoelli/octoelli/blob/main/github-user-contribution.svg" />
- <p></p><img src="https://views-counter.vercel.app/badge?pageId=octoelli%2FViews-Counter" alt="Views Counter"></p>
+  <img alt="snake eating my contributions" src="https://github.com/XDr4ck/XDr4ck/blob/main/github-user-contribution.svg" />
+ <p></p><img src="https://views-counter.vercel.app/badge?pageId=XDr4ck%2FViews-Counter" alt="Views Counter"></p>
   <br/><br/><br/>
 </div>
 </details>
